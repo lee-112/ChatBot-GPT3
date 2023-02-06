@@ -1,0 +1,2 @@
+client@0.0.0    "npm run dev"
+└── vite@4.0.4
